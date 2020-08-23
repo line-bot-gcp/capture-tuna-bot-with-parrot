@@ -1,2 +1,4 @@
 app.yaml
 Dockerfile
+!app-engine-dummy/app.yaml
+
