@@ -1,4 +1,5 @@
 app.yaml
 Dockerfile
+*.gcloudignore
 !app-engine-dummy/app.yaml
 
